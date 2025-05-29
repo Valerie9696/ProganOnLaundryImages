@@ -1,0 +1,6 @@
+flask
+ipython
+matplotlib
+opencv-python
+pip-chill
+tensorflow-gpu

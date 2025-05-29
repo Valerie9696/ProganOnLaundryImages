@@ -1,0 +1,36 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: lightgray;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex: 0 0 auto;
+    margin: 8px 0;
+}
+.main_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: 0 0 auto;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex: 0 0 auto;
+    margin: 8px 0;
+}
+.color_picker {
+    justify-content: center;
+}
+.image_form_container {
+    flex-direction: column;
+}
